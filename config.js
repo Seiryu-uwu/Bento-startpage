@@ -158,7 +158,7 @@ const CONFIG = {
 		},
 		{
 			icon: 'binary',
-			id: '1',
+			id: '2',
 			links: [
 				{
 					name: 'Spotify',
