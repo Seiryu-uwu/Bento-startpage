@@ -139,42 +139,42 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Cute',
+					link: 'https://www.youtube.com/playlist?list=PLKGoesY4kCccs3LRpAW36g493DhHCpBWP',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Speedcore',
+					link: 'https://www.youtube.com/playlist?list=PLKGoesY4kCcdXfPM2iUnCMef_Cq-4-qGj',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Nostalgia',
+					link: 'https://open.spotify.com/playlist/1jGMi0d4TfX02XDGlX0am3?si=c2f845e7374049ca',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Mood',
+					link: 'https://open.spotify.com/playlist/4DmLAt5bdQRdbw8KyLwNrL?si=99eb0953749b4751',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
-			id: '2',
+			icon: 'binary',
+			id: '1',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Spotify',
+					link: 'https://www.spotify.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Reddit',
+					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Discord',
+					link: 'https://discord.com/app',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Jstris',
+					link: 'https://jstris.jezevec10.com/',
 				},
 			],
 		},
