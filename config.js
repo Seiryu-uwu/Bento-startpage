@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Discord',
-					link: 'https://discord.com/app',
+					name: 'Github',
+					link: 'https://github.com/',
 				},
 				{
 					name: 'Sio2',
