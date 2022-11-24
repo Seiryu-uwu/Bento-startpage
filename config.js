@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'OI',
+					link: 'https://sio2.mimuw.edu.pl/c/oi30-1/dashboard/',
 				},
 				{
 					name: 'Reddit',
@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://discord.com/app',
 				},
 				{
-					name: 'Jstris',
-					link: 'https://jstris.jezevec10.com/',
+					name: 'Sio2',
+					link: 'https://sio2.staszic.waw.pl/',
 				},
 			],
 		},
